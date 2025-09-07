@@ -64,7 +64,6 @@ lib/
 
 ## 📸 Screenshots  
 
-*(Replace placeholders when you add screenshots to `/screenshots`)*  
 
 | Home Page | Discover Page | Drawer |
 |-----------|---------------|--------|
