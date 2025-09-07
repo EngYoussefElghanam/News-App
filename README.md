@@ -68,11 +68,11 @@ lib/
 
 | Home Page | Discover Page | Drawer |
 |-----------|---------------|--------|
-| ![Home](screenshots/home.png) | ![Discover](screenshots/discover.png) | ![Drawer](screenshots/drawer.png) |
+| ![Home](assets/images/home.png) | ![Discover](assets/images/discover.png) | ![Drawer](assets/images/drawer.png) |
 
 | Notifications | Saved Articles |
 |---------------|----------------|
-| ![Notification](screenshots/notification.png) | ![Saved](screenshots/saved.png) |
+| ![Notification](assets/images/notifications.png) | ![Saved](assets/images/favorites.png) |
 
 ---
 
