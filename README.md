@@ -68,7 +68,7 @@ lib/
 
 | Home Page | Discover Page | Drawer |
 |-----------|---------------|--------|
-| ![Home](assets/images/home.png) | ![Discover](assets/images/discover.png) | ![Drawer](assets/images/drawer.png) |
+| ![Home](assets/images/home.png) | ![Discover](assets/images/discover.png) | ![Drawer](assets/images/Drawer.png) |
 
 | Notifications | Saved Articles |
 |---------------|----------------|
