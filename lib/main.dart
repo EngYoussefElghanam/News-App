@@ -28,6 +28,7 @@ class MyApp extends StatelessWidget {
     return BlocProvider(
       create: (context) => FavoritesCubit(),
       child: MaterialApp(
+        debugShowCheckedModeBanner: false,
         title: AppConstants.appName,
         theme: AppTheme.mainTheme,
         onGenerateRoute: AppRouter.onGenerateRoute,

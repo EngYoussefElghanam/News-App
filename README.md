@@ -63,17 +63,17 @@ lib/
 ---
 
 ## 📸 Screenshots  
+ 
 
 
 | Home Page | Discover Page | Drawer |
 |-----------|---------------|--------|
 | ![Home](assets/images/home.png) | ![Discover](assets/images/discover.png) | ![Drawer](assets/images/Drawer.png) |
 
-| Notifications | Saved Articles |
-|---------------|----------------|
-| ![Notification](assets/images/notifications.png) | ![Saved](assets/images/favorites.png) |
+| Notifications | Saved Articles | Article Details |
+|---------------|----------------|-----------------|
+| ![Notification](assets/images/notifications.png) | ![Saved](assets/images/favorites.png) | ![Details](assets/images/details.png) |
 
----
 
 ## ⚡ Getting Started  
 
